@@ -1,0 +1,21 @@
+[
+  {
+    "date": "2026-10-22",
+    "timestamp": "2026-10-22T17:31:12",
+    "score": 100,
+    "correct": 10,
+    "total": 10,
+    "topic_scores": {
+      "Hazard spotting": 100,
+      "Risk assessment": 100,
+      "Hierarchy of controls": 100,
+      "Working at height": 100,
+      "Electrical safety": 100,
+      "Manual handling": 100,
+      "Emergency response": 100,
+      "PPE": 100,
+      "Near misses": 100,
+      "Worker participation": 100
+    }
+  }
+]
